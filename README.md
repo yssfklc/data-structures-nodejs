@@ -11,3 +11,6 @@
    6. Graph is developed
 ### An image From the app
   ![image](https://github.com/yssfklc/data-structures-nodejs/assets/121329421/8c5ead78-c971-4e94-8d36-42924b50d680)
+### Next Version Updates
+- Add bubble, merge, quick sort algorithms
+- Add search and graph algorithms
