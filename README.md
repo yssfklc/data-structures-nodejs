@@ -13,19 +13,8 @@
     1. Sort Algorithms
     2. Search Algorithms
 ## File Structure
-  ├──data-structures-nodejs
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── Heap-Tree
+  ├──data-structures-nodejs  
+├── Heap-Tree  
 │   ├── MinHeap
 │   ├── TreeNode
 ├── Algorithms
